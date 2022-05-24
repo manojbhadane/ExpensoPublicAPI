@@ -3,7 +3,7 @@
   "data": [
     {
       "store": "demo",
-      "app_version": "1.0.0",
+      "app_version": "1.0.1",
       "force_upgrade": false,
       "app_link": "https://manojbhadane.gumroad.com/l/tpomow",
       "app_upgrade_msg": "Please update app to latest version 1.x.x",
