@@ -12,7 +12,7 @@
     {
       "store": "gumroad",
       "app_version": "1.0.0",
-      "force_upgrade": false,
+      "force_upgrade": true,
       "app_upgrade_msg": "Please update app to latest version 1.x.x",
       "under_maintenance": false,
       "under_maintenance_msg": "Sorry for inconvenience, Currently app is under maintenance activity, Please wait for time"
