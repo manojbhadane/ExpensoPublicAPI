@@ -4,7 +4,7 @@
     {
       "store": "demo",
       "app_version": "1.0.0",
-      "force_upgrade": true,
+      "force_upgrade": false,
       "app_link": "https://manojbhadane.gumroad.com/l/tpomow",
       "app_upgrade_msg": "Please update app to latest version 1.x.x",
       "under_maintenance": false,
