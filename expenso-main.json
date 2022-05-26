@@ -5,55 +5,91 @@
       "store": "demo",
       "app_version": "1.0.1",
       "force_upgrade": false,
+      "pause_app_upgrade": false,
       "app_link": "https://github.com/manojbhadane/TempRepo/blob/master/Expenso-20220526-v1.0.0(1)-demo-release.apk?raw=true",
       "app_upgrade_msg": "Please update app to latest version 1.0.1",
       "under_maintenance": false,
-      "under_maintenance_msg": "Sorry for inconvenience, Currently app is under maintenance activity, Please wait for time"
+      "under_maintenance_msg": "Sorry for the inconvenience, Currently the app is under maintenance activity, Please wait for time",
+      "force_upgrade_versions": [
+        "0.0.0",
+        "1.x.x",
+        "1.x.y"
+      ]
     },
     {
       "store": "amazon",
       "app_version": "1.0.0",
       "force_upgrade": false,
+      "pause_app_upgrade": false,
       "app_link": "",
       "app_upgrade_msg": "Please update app to latest version 1.x.x",
       "under_maintenance": false,
-      "under_maintenance_msg": "Sorry for inconvenience, Currently app is under maintenance activity, Please wait for time"
+      "under_maintenance_msg": "Sorry for the inconvenience, Currently the app is under maintenance activity, Please wait for time",
+      "force_upgrade_versions": [
+        "0.0.0",
+        "1.x.x",
+        "1.x.y"
+      ]
     },
     {
       "store": "gumroad",
       "app_version": "1.0.0",
       "force_upgrade": false,
+      "pause_app_upgrade": false,
       "app_link": "https://manojbhadane.gumroad.com/l/tpomow",
       "app_upgrade_msg": "Please update app to latest version 1.x.x",
       "under_maintenance": false,
-      "under_maintenance_msg": "Sorry for inconvenience, Currently app is under maintenance activity, Please wait for time"
+      "under_maintenance_msg": "Sorry for the inconvenience, Currently the app is under maintenance activity, Please wait for time",
+      "force_upgrade_versions": [
+        "0.0.0",
+        "1.x.x",
+        "1.x.y"
+      ]
     },
     {
       "store": "samsung",
       "app_version": "1.0.0",
       "force_upgrade": false,
+      "pause_app_upgrade": false,
       "app_link": "",
       "app_upgrade_msg": "Please update app to latest version 1.x.x",
       "under_maintenance": false,
-      "under_maintenance_msg": "Sorry for inconvenience, Currently app is under maintenance activity, Please wait for time"
+      "under_maintenance_msg": "Sorry for the inconvenience, Currently the app is under maintenance activity, Please wait for time",
+      "force_upgrade_versions": [
+        "0.0.0",
+        "1.x.x",
+        "1.x.y"
+      ]
     },
     {
       "store": "indus",
       "app_version": "1.0.0",
       "force_upgrade": false,
+      "pause_app_upgrade": false,
       "app_link": "",
       "app_upgrade_msg": "Please update app to latest version 1.x.x",
       "under_maintenance": false,
-      "under_maintenance_msg": "Sorry for inconvenience, Currently app is under maintenance activity, Please wait for time"
+      "under_maintenance_msg": "Sorry for the inconvenience, Currently the app is under maintenance activity, Please wait for time",
+      "force_upgrade_versions": [
+        "0.0.0",
+        "1.x.x",
+        "1.x.y"
+      ]
     },
     {
       "store": "google_play",
       "app_version": "1.0.0",
       "force_upgrade": false,
+      "pause_app_upgrade": false,
       "app_link": "",
       "app_upgrade_msg": "Please update app to latest version 1.x.x",
       "under_maintenance": false,
-      "under_maintenance_msg": "Sorry for inconvenience, Currently app is under maintenance activity, Please wait for time"
+      "under_maintenance_msg": "Sorry for the inconvenience, Currently the app is under maintenance activity, Please wait for time",
+      "force_upgrade_versions": [
+        "0.0.0",
+        "1.x.x",
+        "1.x.y"
+      ]
     }
   ]
 }
