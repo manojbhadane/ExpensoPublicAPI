@@ -4,7 +4,7 @@
     {
       "store": "demo",
       "app_version": "1.0.2",
-      "force_upgrade": true,
+      "force_upgrade": false,
       "pause_app_upgrade": false,
       "app_link": "https://github.com/manojbhadane/TempRepo/blob/master/Expenso-20220526-v1.0.0(1)-demo-release.apk?raw=true",
       "app_upgrade_msg": "Please update app to latest version 1.0.1",
