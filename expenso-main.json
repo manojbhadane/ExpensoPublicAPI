@@ -11,7 +11,7 @@
       "under_maintenance": false,
       "under_maintenance_msg": "Sorry for the inconvenience, Currently the app is under maintenance activity, Please wait for time",
       "force_upgrade_versions": [
-        "0.0.0",
+        "1.0.1",
         "1.x.x",
         "1.x.y"
       ]
