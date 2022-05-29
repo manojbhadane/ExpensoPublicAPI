@@ -32,7 +32,7 @@
     },
     {
       "store": "gumroad",
-      "app_version": "1.0.3",
+      "app_version": "1.0.2",
       "force_upgrade": false,
       "pause_app_upgrade": false,
       "app_link": "https://manojbhadane.gumroad.com/l/tpomow",
