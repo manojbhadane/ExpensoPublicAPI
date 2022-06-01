@@ -76,6 +76,21 @@
       ]
     },
     {
+      "store": "appsumo",
+      "app_version": "1.0.0",
+      "force_upgrade": false,
+      "pause_app_upgrade": false,
+      "app_link": "",
+      "app_upgrade_msg": "Please update app to latest version 1.0.0",
+      "under_maintenance": false,
+      "under_maintenance_msg": "Sorry for the inconvenience, Currently the app is under maintenance activity, Please wait for time",
+      "force_upgrade_versions": [
+        "0.0.0",
+        "1.x.x",
+        "1.x.y"
+      ]
+    },
+    {
       "store": "google_play",
       "app_version": "1.0.0",
       "force_upgrade": false,
