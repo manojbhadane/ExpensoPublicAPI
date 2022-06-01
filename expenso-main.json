@@ -77,11 +77,11 @@
     },
     {
       "store": "appsumo",
-      "app_version": "1.0.0",
+      "app_version": "1.0.0as",
       "force_upgrade": false,
       "pause_app_upgrade": false,
       "app_link": "",
-      "app_upgrade_msg": "Please update app to latest version 1.0.0",
+      "app_upgrade_msg": "Please update app to latest version 1.0.0as",
       "under_maintenance": false,
       "under_maintenance_msg": "Sorry for the inconvenience, Currently the app is under maintenance activity, Please wait for time",
       "force_upgrade_versions": [
