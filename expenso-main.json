@@ -32,11 +32,11 @@
     },
     {
       "store": "gumroad",
-      "app_version": "1.0.2",
+      "app_version": "1.0.3",
       "force_upgrade": false,
-      "pause_app_upgrade": false,
+      "pause_app_upgrade": true,
       "app_link": "https://manojbhadane.gumroad.com/l/tpomow",
-      "app_upgrade_msg": "Please update app to latest version 1.0.2",
+      "app_upgrade_msg": "Click here to update app (latest version 1.0.3)",
       "under_maintenance": false,
       "under_maintenance_msg": "Sorry for the inconvenience, Currently the app is under maintenance activity, Please wait for time",
       "force_upgrade_versions": [
